@@ -1,5 +1,0 @@
-
-
-
-### run
-python ./test_simple.py test5.wav
